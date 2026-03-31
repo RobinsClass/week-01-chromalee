@@ -32,7 +32,7 @@ TIPS:
     - Use maya.cmds.scale(x, y, z, objectName) to resize objects.
     - Use maya.cmds.rename(oldName, newName) to give objects meaningful names.
 """
-
+#hi
 import maya.cmds as cmds
 
 # ---------------------------------------------------------------------------
