@@ -78,7 +78,7 @@ building = cmds.polyCube(
 cmds.move(building_x, building_height / 2.0, building_z, building)
 
 # ---------------------------------------------------------------------------
-# TODO: Add Object 2
+# Add Object 2
 # Create a second object using a DIFFERENT primitive type than the cube above.
 # Remember to:
 #   - Use descriptive variable names for size and position.
@@ -114,7 +114,7 @@ cmds.move(tree1_top_x, tree1_top_y, tree1_top_z, tree1_top)
 
 
 # ---------------------------------------------------------------------------
-# TODO: Add Object 3
+#Add Object 3
 building2_width = 6
 building2_height = 10
 building2_depth = 5
@@ -134,7 +134,7 @@ cmds.move(building2_x, building2_height / 2, building2_z, building2)
 
 
 # ---------------------------------------------------------------------------
-# TODO: Add Object 4
+#Add Object 4
 house_width = 2
 house_height = 2
 house_depth = 2
@@ -170,7 +170,7 @@ cmds.move(roof_x, roof_y, roof_z, roof)
 
 
 # ---------------------------------------------------------------------------
-# TODO: Add Object 5
+#Add Object 5
 building3_width = 3
 building3_height = 8
 building3_depth = 3
@@ -191,7 +191,7 @@ cmds.move(building3_x, building3_height / 2, building3_z, building3)
 
 
 # ---------------------------------------------------------------------------
-# TODO (Optional): Add more objects to make your scene more interesting!
+#(Optional): Add more objects to make your scene more interesting!
 # Consider: trees, lamp posts, fences, vehicles, animals, etc.
 sun_radius = 3
 sun_x = 10
